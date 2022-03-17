@@ -1,7 +1,7 @@
 <template>
 <!--  vue2中在template里必须有一个  根标签，vue3没有这个限制  -->
   <img alt="Vue logo" src="./assets/logo.png">
-  <hello-world>hello  </hello-world>
+  <hello-world>dev分支修改的内容 </hello-world>
   <HelloWorld msg="Welcome to Your Vue.js + TypeScript App"/>
 </template>
 
