@@ -1,4 +1,5 @@
 <template>
+<!--  vue2中在template里必须有一个根标签，vue3没有这个限制-->
   <img alt="Vue logo" src="./assets/logo.png">
   <HelloWorld msg="Welcome to Your Vue.js + TypeScript App"/>
 </template>
